@@ -33,7 +33,7 @@ function App() {
 
   return (
     <>
-      <Navbar title="TextUtil" about="About" status={mood} toggel={toggelmode} />
+      <Navbar title="TextUtil" status={mood} toggel={toggelmode} />
       <Alert alert={alert} />
       <Textbox status={mood} showalert={showAlert}/>
     </>

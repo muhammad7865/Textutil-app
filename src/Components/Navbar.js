@@ -17,12 +17,8 @@ export default function Navbar(props) {
         <li className="nav-item">
           <a className="nav-link active" aria-current="page" href="#">Home</a>
         </li>
-        <li className="nav-item">
-          <a className="nav-link" href="#">{props.about}</a>
-        </li>
-        <li className="nav-item">
-            <a className="nav-link" href="https://getbootstrap.com/docs/5.3/components/buttons/" target="_blank">Bootstrap</a>
-        </li>
+       
+       
       </ul>
       <form className="d-flex" role="search">
       <div className={`form-check form-switch text-${props.status==="light"?"dark":"light"} `}>
