@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Textutil-app/static/css/main.e6c13ad2.css",
+    "main.js": "/Textutil-app/static/js/main.cfb0b28e.js",
+    "static/js/787.5cd74ffb.chunk.js": "/Textutil-app/static/js/787.5cd74ffb.chunk.js",
+    "index.html": "/Textutil-app/index.html",
+    "main.e6c13ad2.css.map": "/Textutil-app/static/css/main.e6c13ad2.css.map",
+    "main.cfb0b28e.js.map": "/Textutil-app/static/js/main.cfb0b28e.js.map",
+    "787.5cd74ffb.chunk.js.map": "/Textutil-app/static/js/787.5cd74ffb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.cfb0b28e.js"
+  ]
+}
